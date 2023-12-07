@@ -1,15 +1,24 @@
 # python
-Sintaxis...
+Por ahora solo scripts.
 
 Programación Etructurada
-- [Entrada y Salida de Datos](./structured/datos/data-input-output.py)
-- [Comentarios](./structured/comentarios/comments.py)
-- [Operadores](./structured/operadores/in.py)
-- [Variables](./structured/variables/variables.py)
-- [Decisiones](./structured/decisiones/decisiones.py)
-- [Ciclos](./structured/ciclos/ciclos.py)
-- [Errores](./structured/errores/errores.py)
-- [Funciones](./structured/funciones/funciones.py)
+- Entrada y Salida de Datos
+    - [input - print](./structured/datos/data-input-output.py)
+- Comentarios
+    - Una linea, Bloque de lineas
+- Operadores
+    - Suma, Resta, Multiplicación, División
+- Variables
+    - String, Numbers, Bool, Float
+- Decisiones
+    - If, else, elif
+- Ciclos
+    - While, For
+- Errores
+    - try, except, finally
+
+- Funciones
+    - Función, Parámetros, Return
 
 Programación Estructurada 2
 - Tipos de Datos
