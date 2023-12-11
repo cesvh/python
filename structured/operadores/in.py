@@ -6,6 +6,6 @@ print("0 in my_list", 0 in my_list)
 
 my_word = "parsec"
 
-print("my_word", my_word, type(my_word))
+print("\nmy_word", my_word, type(my_word))
 print("'a' in my_word", 'a' in my_word)
 print("'A' in my_word", 'A' in my_word)

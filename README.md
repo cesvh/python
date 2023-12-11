@@ -5,20 +5,24 @@ Programación Etructurada
 - Entrada y Salida de Datos
     - [input - print](./structured/datos/data-input-output.py)
 - Comentarios
-    - Una linea, Bloque de lineas
+    - [Una linea (#), Bloque de lineas (""" """)](./structured/comentarios/comments.py)
 - Operadores
-    - Suma, Resta, Multiplicación, División
+    - Suma, Resta, Multiplicación, División, Potencia, [Pertenencia (in)](./structured/operadores/in.py)
 - Variables
-    - String, Numbers, Bool, Float
+    - [Básico (str, int, float, bool)](./structured/variables/variables.py)
 - Decisiones
-    - If, else, elif
+    - [if](./structured/decisiones/if.py), [else](./structured/decisiones/else.py), [elif](./structured/decisiones/elif.py)
 - Ciclos
-    - While, For
+    - [while](./structured/ciclos/while.py)
+    - [for](./structured/ciclos/for.py)
+    - [for-range](./structured/ciclos/for-range.py)
+    - [for-continue](./structured/ciclos/for-continue.py)
+    - [for-break](./structured/ciclos/for-break.py)
 - Errores
-    - try, except, finally
-
+    - [try, except, finally](./structured/errores/try-except-finally.py)
 - Funciones
-    - Función, Parámetros, Return
+    - [Función básica](./structured/funciones/basic_function.py)
+    - Parámetros
 
 Programación Estructurada 2
 - Tipos de Datos
@@ -28,7 +32,8 @@ Programación Estructurada 2
     - Parámetros de Referencia
     - Importaciones
 - Listas
-- Documentación de Métodos
+- Documentación
+    - [Documentación](./structured-2/documentacion/doc.py)
 
 Ejercicios
 - Validar si un Número es Primo
