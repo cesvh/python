@@ -27,7 +27,8 @@ Programación Etructurada
 Programación Estructurada 2
 - Tipos de Datos
     - Números
-    - Cadenas de Textos
+    - Cadenas de Texto
+        - [string](./structured-2/tipo-de-datos/strings/string.py)
 - Funciones
     - Parámetros de Referencia
     - Importaciones
