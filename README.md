@@ -29,6 +29,12 @@ Programación Estructurada 2
     - Números
     - Cadenas de Texto
         - [string](./structured-2/tipo-de-datos/strings/string.py)
+        - [triple quotes](./structured-2/tipo-de-datos/strings/triple_quotes.py)
+        - [indexing](./structured-2/tipo-de-datos/strings/indexing.py)
+        - [spliting](./structured-2/tipo-de-datos/strings/spliting.py)
+        - [deleting string](./structured-2/tipo-de-datos/strings/deleting_string.py)
+        - [spliting](./structured-2/tipo-de-datos/strings/spliting.py)
+        - [scape formatting](./structured-2/tipo-de-datos/strings/scape_formatting.py)
 - Funciones
     - Parámetros de Referencia
     - Importaciones
