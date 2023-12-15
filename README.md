@@ -35,6 +35,17 @@ Programación Estructurada 2
         - [deleting string](./structured-2/tipo-de-datos/strings/deleting_string.py)
         - [spliting](./structured-2/tipo-de-datos/strings/spliting.py)
         - [scape formatting](./structured-2/tipo-de-datos/strings/scape_formatting.py)
+        - [capitalize](./structured-2/tipo-de-datos/strings/methods/capitalize.py)
+        - [count](./structured-2/tipo-de-datos/strings/methods/count.py) 
+        - [upper](./structured-2/tipo-de-datos/strings/methods/upper.py)
+        - [lower](./structured-2/tipo-de-datos/strings/methods/lower.py)
+        - [startswith](./structured-2/tipo-de-datos/strings/methods/startswith.py)
+        - [endswith](./structured-2/tipo-de-datos/strings/methods/endswith.py)
+        - [islower](./structured-2/tipo-de-datos/strings/methods/islower.py)
+        - [isupper](./structured-2/tipo-de-datos/strings/methods/isupper.py)
+        - [split](./structured-2/tipo-de-datos/strings/methods/split.py)
+        - [strip](./structured-2/tipo-de-datos/strings/methods/strip.py)
+        - [replace](./structured-2/tipo-de-datos/strings/methods/replace.py)
 - Funciones
     - Parámetros de Referencia
     - Importaciones
