@@ -55,10 +55,11 @@ Programación Estructurada 2
     - Parámetros de Referencia
     - Importaciones
 - Listas
+        - [Listas](./structured/estructura-de-datos/listas.py)
 - Documentación
     - [Documentación](./structured-2/documentacion/doc.py)
 
 Ejercicios
 - Validar si un Número es Primo
 - Obtener Primos Entre un Rango de Números
-- [Fibonacci 1ra Versión](./exercices/fibonacci.-while-0.py)
+- [Fibonacci 1ra Versión](./exercices/fibonacci-while-0.py)
