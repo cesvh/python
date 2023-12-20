@@ -46,6 +46,11 @@ Programación Estructurada 2
         - [split](./structured-2/tipo-de-datos/strings/methods/split.py)
         - [strip](./structured-2/tipo-de-datos/strings/methods/strip.py)
         - [replace](./structured-2/tipo-de-datos/strings/methods/replace.py)
+        - [isnumeric](./structured-2/tipo-de-datos/strings/methods/isnumeric.py)
+        - [isdigit](./structured-2/tipo-de-datos/strings/methods/isdigit.py)
+        - [isdecimal](./structured-2/tipo-de-datos/strings/methods/isdecimal.py)
+        - [isalpha](./structured-2/tipo-de-datos/strings/methods/isalpha.py)
+        - [isalnum](./structured-2/tipo-de-datos/strings/methods/isalnum.py)
 - Funciones
     - Parámetros de Referencia
     - Importaciones
@@ -56,3 +61,4 @@ Programación Estructurada 2
 Ejercicios
 - Validar si un Número es Primo
 - Obtener Primos Entre un Rango de Números
+- [Fibonacci 1ra Versión](./exercices/fibonacci.-while-0.py)
