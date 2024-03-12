@@ -22,7 +22,12 @@ Programación Etructurada
     - [try, except, finally](./structured/errores/try-except-finally.py)
 - Funciones
     - [Función básica](./structured/funciones/basic_function.py)
-    - Parámetros
+    - [Argumentos](./structured/funciones/argumentos.py)
+    - [Argumentos por default](./structured/funciones/argumentos-por-default.py)
+    - [Argumentos por nombre](./structured/funciones/argumentos-por-nombre.py)
+    - [Retorno de valores](./structured/funciones/return.py)
+    - [*args](./structured/funciones/args.py)
+    - [**kwargs](./structured/funciones/kwargs.py)
 
 Programación Estructurada 2
 - Tipos de Datos
@@ -55,9 +60,21 @@ Programación Estructurada 2
     - Parámetros de Referencia
     - Importaciones
 - Listas
-        - [Listas](./structured/estructura-de-datos/listas.py)
+    - [Listas](./structured/estructura-de-datos/listas.py)
+- Diccionarios
+    - [Diccionarios](./structured/estructura-de-datos/diccionarios/diccionarios.py)
+    - [Iterar diccionarios](./structured/estructura-de-datos/diccionarios/iterar_diccionarios.py)
 - Documentación
     - [Documentación](./structured-2/documentacion/doc.py)
+
+Programación Orientada a Objetos
+- Clase
+- Instancia
+- Acceso a atributos
+- Atributos default
+- Destruir objeto
+- Herencia
+- Sobreescritura de métodos
 
 Ejercicios
 - Validar si un Número es Primo
