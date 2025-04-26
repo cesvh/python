@@ -19,4 +19,3 @@ while b < my_limit:
 
 print()
 print()
-
