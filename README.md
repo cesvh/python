@@ -1,7 +1,11 @@
 # python
-Por ahora solo scripts.
+Sintaxis python.
 
 Programación Etructurada
+- Entrada y Salida de Datos
+    - [Instalación de python](./python/001-core/001-basico/000-install-python.sh)
+
+<!-- 
 - Entrada y Salida de Datos
     - [input - print](./structured/datos/data-input-output.py)
 - Comentarios
@@ -79,4 +83,4 @@ Programación Orientada a Objetos
 Ejercicios
 - Validar si un Número es Primo
 - Obtener Primos Entre un Rango de Números
-- [Fibonacci 1ra Versión](./exercices/fibonacci-while-0.py)
+- [Fibonacci 1ra Versión](./exercices/fibonacci-while-0.py) -->
