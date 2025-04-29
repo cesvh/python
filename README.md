@@ -1,13 +1,13 @@
 # python
 Sintaxis python.
 
+- [Instalación de python](./python/001-core/001-basico/000-install-python.sh)
+
 Programación Etructurada
 - Entrada y Salida de Datos
-    - [Instalación de python](./python/001-core/001-basico/000-install-python.sh)
+    - [input - output](./python/001-core/001-basico/001-input-output.py)
 
 <!-- 
-- Entrada y Salida de Datos
-    - [input - print](./structured/datos/data-input-output.py)
 - Comentarios
     - [Una linea (#), Bloque de lineas (""" """)](./structured/comentarios/comments.py)
 - Operadores
