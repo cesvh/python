@@ -6,10 +6,10 @@ Sintaxis python.
 Programación Etructurada
 - Entrada y Salida de Datos
     - [input - output](./python/001-core/001-basico/001-input-output.py)
+- Comentarios
+    - [Una linea (#), Bloque de lineas (""" """)](./python/001-core/001-basico/002-comentarios.py)
 
 <!-- 
-- Comentarios
-    - [Una linea (#), Bloque de lineas (""" """)](./structured/comentarios/comments.py)
 - Operadores
     - Suma, Resta, Multiplicación, División, Potencia, [Pertenencia (in)](./structured/operadores/in.py)
 - Variables
